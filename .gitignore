@@ -12,5 +12,5 @@
 **/.vscode/
 **/coverage/
 **/dist/
-**/build/
+**/.build/
 **/npm-debug.log
